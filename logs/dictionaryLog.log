@@ -1,0 +1,145 @@
+2022-01-23 20:12:26,341 INFO Dictionary initialized
+2022-01-23 20:12:45,863 INFO Print function is called
+2022-01-23 20:13:08,343 INFO clear function called
+2022-01-23 20:13:10,587 INFO Print function is called
+2022-01-23 20:15:01,123 INFO Dictionary initialized
+2022-01-23 20:15:14,529 INFO copy function called
+2022-01-23 20:15:14,530 INFO Dictionary initialized
+2022-01-23 20:15:18,877 INFO Print function is called
+2022-01-23 20:15:27,037 INFO clear function called
+2022-01-23 20:15:31,048 INFO Print function is called
+2022-01-23 20:15:36,468 INFO Print function is called
+2022-01-23 20:15:50,078 INFO Print function is called
+2022-01-23 20:17:09,128 INFO from keys method called
+2022-01-23 20:17:50,463 INFO get method called
+2022-01-23 20:18:30,717 INFO items method called
+2022-01-23 20:19:16,191 INFO keys method called
+2022-01-23 20:19:38,664 INFO Print function is called
+2022-01-23 20:19:46,107 INFO pop method called
+2022-01-23 20:19:46,107 ERROR Error occurred
+2022-01-23 20:19:46,107 ERROR pop() takes no keyword arguments
+2022-01-23 20:19:51,939 INFO Print function is called
+2022-01-23 20:20:54,651 INFO pop method called
+2022-01-23 20:20:54,652 ERROR Error occurred
+2022-01-23 20:20:54,652 ERROR pop() takes no keyword arguments
+2022-01-23 20:20:55,335 INFO Print function is called
+2022-01-23 20:22:24,004 INFO Dictionary initialized
+2022-01-23 20:22:24,188 INFO Print function is called
+2022-01-23 20:22:24,517 INFO clear function called
+2022-01-23 20:22:24,678 INFO Print function is called
+2022-01-23 20:22:25,002 INFO Dictionary initialized
+2022-01-23 20:22:25,180 INFO copy function called
+2022-01-23 20:22:25,180 INFO Dictionary initialized
+2022-01-23 20:22:25,348 INFO Print function is called
+2022-01-23 20:22:25,516 INFO clear function called
+2022-01-23 20:22:25,688 INFO Print function is called
+2022-01-23 20:22:25,869 INFO Print function is called
+2022-01-23 20:22:26,215 INFO from keys method called
+2022-01-23 20:22:26,745 INFO get method called
+2022-01-23 20:22:27,118 INFO items method called
+2022-01-23 20:22:27,494 INFO keys method called
+2022-01-23 20:22:28,300 INFO Print function is called
+2022-01-23 20:22:28,510 INFO pop method called
+2022-01-23 20:22:28,711 INFO Print function is called
+2022-01-23 20:23:40,130 INFO Print function is called
+2022-01-23 20:23:44,828 INFO Print function is called
+2022-01-23 20:23:45,303 INFO pop method called
+2022-01-23 20:23:45,712 INFO Print function is called
+2022-01-23 20:23:46,070 INFO Print function is called
+2022-01-23 20:23:59,665 INFO Print function is called
+2022-01-23 20:23:59,924 INFO pop method called
+2022-01-23 20:24:00,491 INFO Print function is called
+2022-01-23 20:31:29,198 INFO pop item method called
+2022-01-23 20:31:34,435 INFO Print function is called
+2022-01-23 20:32:19,844 INFO Print function is called
+2022-01-23 20:32:21,029 INFO pop method called
+2022-01-23 20:32:21,743 INFO Print function is called
+2022-01-23 20:32:29,547 INFO pop item method called
+2022-01-23 20:32:30,395 INFO Print function is called
+2022-01-23 20:32:40,591 INFO Dictionary initialized
+2022-01-23 20:32:40,792 INFO Print function is called
+2022-01-23 20:32:41,210 INFO clear function called
+2022-01-23 20:32:41,446 INFO Print function is called
+2022-01-23 20:32:41,910 INFO Dictionary initialized
+2022-01-23 20:32:42,384 INFO copy function called
+2022-01-23 20:32:42,384 INFO Dictionary initialized
+2022-01-23 20:32:42,569 INFO Print function is called
+2022-01-23 20:32:42,762 INFO clear function called
+2022-01-23 20:32:42,979 INFO Print function is called
+2022-01-23 20:32:43,177 INFO Print function is called
+2022-01-23 20:32:43,604 INFO from keys method called
+2022-01-23 20:32:44,333 INFO get method called
+2022-01-23 20:32:44,704 INFO items method called
+2022-01-23 20:32:45,068 INFO keys method called
+2022-01-23 20:32:45,428 INFO Print function is called
+2022-01-23 20:32:45,629 INFO pop method called
+2022-01-23 20:32:46,013 INFO Print function is called
+2022-01-23 20:35:11,684 INFO Dictionary initialized
+2022-01-23 20:35:11,869 INFO Print function is called
+2022-01-23 20:35:12,226 INFO clear function called
+2022-01-23 20:35:12,409 INFO Print function is called
+2022-01-23 20:35:12,751 INFO Dictionary initialized
+2022-01-23 20:35:12,926 INFO copy function called
+2022-01-23 20:35:12,927 INFO Dictionary initialized
+2022-01-23 20:35:13,082 INFO Print function is called
+2022-01-23 20:35:13,247 INFO clear function called
+2022-01-23 20:35:13,429 INFO Print function is called
+2022-01-23 20:35:13,607 INFO Print function is called
+2022-01-23 20:35:13,962 INFO from keys method called
+2022-01-23 20:35:14,484 INFO get method called
+2022-01-23 20:35:14,830 INFO items method called
+2022-01-23 20:35:15,194 INFO keys method called
+2022-01-23 20:35:15,660 INFO Print function is called
+2022-01-23 20:35:16,105 INFO pop method called
+2022-01-23 20:35:16,452 INFO Print function is called
+2022-01-23 20:35:25,099 INFO pop item method called
+2022-01-23 20:35:26,433 INFO Print function is called
+2022-01-23 20:35:49,965 INFO values method called
+2022-01-23 20:41:12,384 INFO Dictionary initialized
+2022-01-23 20:41:12,584 INFO Print function is called
+2022-01-23 20:41:12,935 INFO clear function called
+2022-01-23 20:41:13,112 INFO Print function is called
+2022-01-23 20:41:13,449 INFO Dictionary initialized
+2022-01-23 20:41:13,624 INFO copy function called
+2022-01-23 20:41:13,625 INFO Dictionary initialized
+2022-01-23 20:41:13,802 INFO Print function is called
+2022-01-23 20:41:13,981 INFO clear function called
+2022-01-23 20:41:14,170 INFO Print function is called
+2022-01-23 20:41:14,376 INFO Print function is called
+2022-01-23 20:41:14,780 INFO from keys method called
+2022-01-23 20:41:15,372 INFO get method called
+2022-01-23 20:41:16,122 INFO items method called
+2022-01-23 20:41:16,803 INFO keys method called
+2022-01-23 20:41:17,170 INFO Print function is called
+2022-01-23 20:41:17,349 INFO pop method called
+2022-01-23 20:41:17,523 INFO Print function is called
+2022-01-23 20:41:17,865 INFO pop item method called
+2022-01-23 20:41:18,048 INFO Print function is called
+2022-01-23 20:41:18,410 INFO values method called
+2022-01-23 20:42:00,333 INFO setdefault function called
+2022-01-23 20:42:09,295 INFO setdefault function called
+2022-01-23 20:42:13,564 INFO Print function is called
+2022-01-23 22:07:00,038 INFO Dictionary initialized
+2022-01-23 22:07:00,191 INFO Print function is called
+2022-01-23 22:07:00,542 INFO clear function called
+2022-01-23 22:07:00,704 INFO Print function is called
+2022-01-23 22:07:01,061 INFO Dictionary initialized
+2022-01-23 22:07:01,251 INFO copy function called
+2022-01-23 22:07:01,251 INFO Dictionary initialized
+2022-01-23 22:07:01,419 INFO Print function is called
+2022-01-23 22:07:01,589 INFO clear function called
+2022-01-23 22:07:01,761 INFO Print function is called
+2022-01-23 22:07:01,929 INFO Print function is called
+2022-01-23 22:07:02,277 INFO from keys method called
+2022-01-23 22:07:02,782 INFO get method called
+2022-01-23 22:07:03,080 INFO items method called
+2022-01-23 22:07:03,728 INFO keys method called
+2022-01-23 22:07:04,070 INFO Print function is called
+2022-01-23 22:07:04,228 INFO pop method called
+2022-01-23 22:07:04,384 INFO Print function is called
+2022-01-23 22:07:04,712 INFO pop item method called
+2022-01-23 22:07:04,895 INFO Print function is called
+2022-01-23 22:07:05,240 INFO values method called
+2022-01-23 22:07:05,583 INFO setdefault function called
+2022-01-23 22:07:06,163 INFO setdefault function called
+2022-01-23 22:07:06,769 INFO Print function is called

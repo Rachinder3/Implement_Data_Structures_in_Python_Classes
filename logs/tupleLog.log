@@ -1,0 +1,31 @@
+2022-01-23 18:00:08,828 INFO Initialized the Tuple
+2022-01-23 18:00:10,164 INFO count function called
+2022-01-23 18:00:10,500 INFO index function called
+2022-01-23 18:00:52,362 INFO + operator called
+2022-01-23 18:00:52,362 ERROR Error occurred
+2022-01-23 18:00:52,362 ERROR 'tuple' object has no attribute '_TupleClass__t'
+2022-01-23 18:03:48,247 INFO Initialized the Tuple
+2022-01-23 18:03:49,359 INFO count function called
+2022-01-23 18:03:49,979 INFO index function called
+2022-01-23 18:03:50,813 INFO + operator called
+2022-01-23 18:03:50,813 ERROR Error occurred
+2022-01-23 18:03:50,813 ERROR 'tuple' object has no attribute '_TupleClass__t'
+2022-01-23 18:04:57,651 INFO * operator called
+2022-01-23 18:04:57,651 INFO Initialized the Tuple
+2022-01-23 18:07:55,149 INFO Initialized the Tuple
+2022-01-23 18:07:55,180 INFO count function called
+2022-01-23 18:07:55,808 INFO index function called
+2022-01-23 18:07:56,145 INFO + operator called
+2022-01-23 18:07:56,145 ERROR Error occurred
+2022-01-23 18:07:56,146 ERROR 'tuple' object has no attribute '_TupleClass__t'
+2022-01-23 18:08:53,088 INFO Initialized the Tuple
+2022-01-23 18:08:53,089 INFO + operator called
+2022-01-23 18:08:53,089 INFO Initialized the Tuple
+2022-01-23 18:09:10,231 INFO Initialized the Tuple
+2022-01-23 18:09:10,746 INFO count function called
+2022-01-23 18:09:11,101 INFO index function called
+2022-01-23 18:09:11,432 INFO Initialized the Tuple
+2022-01-23 18:09:11,432 INFO + operator called
+2022-01-23 18:09:11,432 INFO Initialized the Tuple
+2022-01-23 18:09:11,971 INFO * operator called
+2022-01-23 18:09:11,972 INFO Initialized the Tuple
