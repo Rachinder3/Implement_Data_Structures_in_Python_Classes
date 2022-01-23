@@ -10032,3 +10032,51 @@
 2022-01-23 22:26:46,960 INFO intersection method called on {1, 2, 3, 4, 5}
 2022-01-23 22:26:46,961 INFO Set initialized
 2022-01-23 22:26:47,124 INFO Print function is called on 
+2022-01-23 22:30:30,917 INFO Set initialized
+2022-01-23 22:30:31,096 INFO Print function is called on 
+2022-01-23 22:30:31,423 INFO add method called on 
+2022-01-23 22:30:31,598 INFO Print function is called on 
+2022-01-23 22:30:31,765 INFO add method called on 
+2022-01-23 22:30:31,921 INFO Print function is called on 
+2022-01-23 22:30:32,242 INFO clear method called on
+2022-01-23 22:30:32,410 INFO Print function is called on 
+2022-01-23 22:30:32,781 INFO Set initialized
+2022-01-23 22:30:32,938 INFO copy method called on {1, 2, 3, 4}
+2022-01-23 22:30:32,938 INFO Set initialized
+2022-01-23 22:30:33,116 INFO Print function is called on 
+2022-01-23 22:30:33,286 INFO Print function is called on 
+2022-01-23 22:30:33,460 INFO add method called on 
+2022-01-23 22:30:33,635 INFO Print function is called on 
+2022-01-23 22:30:33,806 INFO Print function is called on 
+2022-01-23 22:30:34,386 INFO Print function is called on 
+2022-01-23 22:30:34,576 INFO Set initialized
+2022-01-23 22:30:34,576 INFO Set initialized
+2022-01-23 22:30:34,742 INFO difference method called on {1, 2, 3, 4, 5} 
+2022-01-23 22:30:34,742 INFO Set initialized
+2022-01-23 22:30:34,743 INFO Print function is called on 
+2022-01-23 22:30:35,524 INFO Print function is called on 
+2022-01-23 22:30:35,524 INFO Print function is called on 
+2022-01-23 22:30:35,524 INFO Print function is called on 
+2022-01-23 22:30:35,712 INFO difference update method called on {1, 2, 3, 4, 5} 
+2022-01-23 22:30:35,878 INFO Print function is called on 
+2022-01-23 22:30:36,479 INFO Print function is called on 
+2022-01-23 22:30:36,860 INFO discard method called on {1, 2}
+2022-01-23 22:30:37,235 INFO Print function is called on 
+2022-01-23 22:30:37,421 INFO discard method called on {2}
+2022-01-23 22:30:37,592 INFO Print function is called on 
+2022-01-23 22:30:37,945 INFO Print function is called on 
+2022-01-23 22:30:38,111 INFO Set initialized
+2022-01-23 22:30:38,281 INFO Print function is called on 
+2022-01-23 22:30:38,445 INFO intersection method called on {1, 2, 3, 4, 5}
+2022-01-23 22:30:38,446 INFO Set initialized
+2022-01-23 22:30:38,619 INFO Print function is called on 
+2022-01-23 22:31:24,563 INFO Print function is called on 
+2022-01-23 22:31:27,685 INFO Print function is called on 
+2022-01-23 22:31:41,636 INFO isDijoint method called on {2} 
+2022-01-23 22:31:55,236 INFO Print function is called on 
+2022-01-23 22:31:59,687 INFO Print function is called on 
+2022-01-23 22:32:03,845 INFO pop method called on {1, 2, 3, 4, 5} 
+2022-01-23 22:32:06,612 INFO Print function is called on 
+2022-01-23 22:32:42,148 INFO Print function is called on 
+2022-01-23 22:32:46,747 INFO remove method called on {2, 3, 4, 5}
+2022-01-23 22:32:49,937 INFO Print function is called on 
