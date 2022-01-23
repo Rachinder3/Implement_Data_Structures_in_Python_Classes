@@ -20,7 +20,7 @@ Guidelines:
 
 1) Assignment.ipynb: Contains a jupyter notebook
 where all the different functions implemented in different 
-packages have been called here.
+packages have been called.
 
 2) Dictionary: package that contains modules and functions
 regarding the implemented dictionary class.
